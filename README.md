@@ -1,4 +1,4 @@
-# Legacy Argent Rose solution
+# Legacy Argent Rose starting point
 
 With awkward dependencies broken to enable unit testing.
 
